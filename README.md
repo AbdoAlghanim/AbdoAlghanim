@@ -1,4 +1,4 @@
-Front-end web developer and a petroleum engineering undergraduate.
+Front-end web developer and a petroleum engineering undergraduate. \n
 Looking to collaborate on open-source projects.
 <!---
 AbdoAlghanim/AbdoAlghanim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
